@@ -4,7 +4,8 @@
 	"dependencies": {
 		":2021-day1-part1": "*",
 		":2021-day1-part2": "*",
-		":2021-day2-part1": "*"
+		":2021-day2-part1": "*",
+		":2021-day2-part2": "*"
 	},
 	"description": "Advent of code solutions",
 	"license": "MIT",
@@ -15,7 +16,8 @@
 	"subPackages": [
 		"2021/day1/part1",
 		"2021/day1/part2",
-		"2021/day2/part1"
+		"2021/day2/part1",
+		"2021/day2/part2"
 	],
 	"targetType": "executable"
 }
