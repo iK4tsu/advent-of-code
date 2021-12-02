@@ -13,3 +13,4 @@ advent_of_code-test-*
 *.o
 *.obj
 *.lst
+bin/
