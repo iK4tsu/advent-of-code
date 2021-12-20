@@ -30,7 +30,8 @@
 		":2021-day13-part2": "*",
 		":2021-day14-part1": "*",
 		":2021-day14-part2": "*",
-		":2021-day15-part1": "*"
+		":2021-day15-part1": "*",
+		":2021-day15-part2": "*"
 	},
 	"description": "Advent of code solutions",
 	"license": "MIT",
@@ -67,7 +68,8 @@
 		"2021/day13/part2",
 		"2021/day14/part1",
 		"2021/day14/part2",
-		"2021/day15/part1"
+		"2021/day15/part1",
+		"2021/day15/part2"
 	],
 	"targetType": "executable"
 }
