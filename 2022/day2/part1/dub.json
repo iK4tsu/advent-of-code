@@ -3,6 +3,5 @@
 	"targetName": "aoc2022-day2-part1",
 	"targetPath": "../../bin",
 	"sourcePaths": ["."],
-	"targetType": "executable",
-	"dflags": ["-preview=bitfields"]
+	"targetType": "executable"
 }
