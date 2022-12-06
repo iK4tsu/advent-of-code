@@ -43,7 +43,8 @@
 	"license": "MIT",
 	"name": "advent_of_code",
 	"sourcePaths": [
-		"2021"
+		"2021",
+		"2022"
 	],
 	"subPackages": [
 		"2021/day1/part1",
