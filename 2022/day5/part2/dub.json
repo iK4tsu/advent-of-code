@@ -1,0 +1,7 @@
+{
+	"name": "2022-day5-part2",
+	"targetName": "aoc2022-day5-part2",
+	"targetPath": "../../bin",
+	"sourcePaths": ["."],
+	"targetType": "executable"
+}
