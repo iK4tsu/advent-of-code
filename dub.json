@@ -45,7 +45,8 @@
 		":2022-day3-part1": "*",
 		":2022-day3-part2": "*",
 		":2022-day4-part1": "*",
-		":2022-day4-part2": "*"
+		":2022-day4-part2": "*",
+		":2022-day5-part1": "*"
 	},
 	"description": "Advent of code solutions",
 	"license": "MIT",
@@ -98,7 +99,8 @@
 		"2022/day3/part1",
 		"2022/day3/part2",
 		"2022/day4/part1",
-		"2022/day4/part2"
+		"2022/day4/part2",
+		"2022/day5/part1"
 	],
 	"targetType": "executable"
 }
